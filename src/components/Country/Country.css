@@ -5,3 +5,8 @@
     margin: 16px;
     /* text-align: center; */
 }
+
+.country-visited{
+    border: 2px solid rgb(49, 2, 255);
+    background-color: rgba(4, 124, 24, 0.411);
+} 
